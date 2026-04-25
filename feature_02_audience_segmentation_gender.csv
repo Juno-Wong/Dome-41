@@ -1,0 +1,5 @@
+gender,post_count,comment_count,post_likes_received,comment_likes_received,total_interactions
+female,41.0,118.0,82.0,122.0,363.0
+male,19.0,39.0,36.0,34.0,128.0
+non_binary,19.0,22.0,26.0,24.0,91.0
+prefer_not_to_say,5.0,12.0,9.0,14.0,40.0
