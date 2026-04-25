@@ -1,0 +1,4 @@
+sentiment_label,post_count,avg_post_likes,avg_comments,total_post_likes,total_comments,engagement_score
+positive,47,1.5319148936170213,2.021276595744681,72,95,3.5531914893617023
+neutral,36,2.25,2.611111111111111,81,94,4.861111111111111
+negative,1,0.0,2.0,0,2,2.0
