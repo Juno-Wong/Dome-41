@@ -1,18 +1,42 @@
 theme_label,sentiment_label,post_count,avg_post_likes,avg_comments
-baby,positive,4,1.75,2.0
-baby,neutral,1,1.0,3.0
-bonus,positive,8,1.5,1.625
-curious,neutral,7,2.7142857142857144,2.857142857142857
-dumb,neutral,5,2.6,3.0
-dumb,positive,5,1.8,2.2
-dumb,negative,1,0.0,2.0
-feels interesting angle,positive,6,1.6666666666666667,2.1666666666666665
-feels interesting angle,neutral,3,2.0,3.3333333333333335
-hearing versions,neutral,9,1.7777777777777777,2.7777777777777777
-hearing versions,positive,5,1.2,2.2
-makes,neutral,8,2.625,2.0
-makes,positive,2,1.0,2.0
-rattling head latest,positive,8,1.0,2.25
-rattling head latest,neutral,1,1.0,2.0
-separate interesting loud,positive,9,2.0,1.8888888888888888
-separate interesting loud,neutral,2,2.0,1.5
+award season,neutral,1,5.0,4.0
+award season,positive,1,2.0,2.0
+book to screen adaptations,positive,4,2.25,3.25
+book to screen adaptations,neutral,1,0.0,0.0
+brand founder scandals,neutral,1,3.0,3.0
+cancelled tours,positive,3,0.6666666666666666,1.3333333333333333
+celebrity memoirs,neutral,2,2.0,2.5
+celebrity side hustles,neutral,1,4.0,2.0
+celebrity side hustles,positive,1,4.0,4.0
+comfort rewatches,neutral,5,2.4,3.2
+comfort rewatches,positive,1,0.0,3.0
+girlboss backlash,positive,3,1.0,1.6666666666666667
+girlboss backlash,neutral,1,3.0,3.0
+guest,neutral,2,2.0,0.5
+have redemption arcs,neutral,1,2.0,2.0
+internet overexposure,positive,3,3.3333333333333335,0.6666666666666666
+internet overexposure,neutral,1,2.0,2.0
+long read the celebrity memoir boom,positive,1,0.0,2.0
+messy celeb interviews,neutral,2,1.5,2.0
+messy celeb interviews,positive,1,0.0,0.0
+microtrend fatigue,positive,6,0.8333333333333334,2.1666666666666665
+microtrend fatigue,neutral,2,3.5,4.0
+movie press tours,positive,4,2.0,2.5
+movie press tours,neutral,1,0.0,5.0
+nepo baby,positive,4,1.75,2.0
+nepo baby,neutral,1,1.0,3.0
+parasocial friendship,positive,2,1.0,0.0
+parasocial friendship,neutral,1,0.0,1.0
+poll you like guest more,neutral,1,3.0,2.0
+reality villains,neutral,4,3.25,3.0
+reality villains,positive,4,2.25,2.25
+redemption arcs,positive,1,2.0,2.0
+relationships,positive,5,1.2,1.6
+relationships,neutral,1,4.0,3.0
+sad girl pop,neutral,5,1.8,2.4
+smartest dumb watch,negative,1,0.0,2.0
+tabloid ethics,positive,1,2.0,5.0
+the fame fatigue chat,positive,1,1.0,3.0
+wellness rebrands,neutral,1,2.0,3.0
+what's your comfort rewatch,positive,1,0.0,2.0
+would you shameless live listen melbourne,neutral,1,0.0,3.0
