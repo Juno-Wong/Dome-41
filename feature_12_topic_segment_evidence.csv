@@ -1,0 +1,26 @@
+dominant_topic,city,industry,gender,post_count,total_likes,total_comments,engagement_score
+dumb,London,Legal,male,2,6,7,15
+dumb,Gold Coast,Technology,prefer_not_to_say,1,4,5,10
+dumb,Christchurch,Technology,female,1,5,3,9
+argument,London,Legal,male,1,4,4,9
+best substack,Bristol,Technology,male,1,3,5,9
+circling,Wellington,Advertising,female,1,2,5,8
+best substack,London,Government,female,1,4,3,8
+coming,Bristol,Nonprofit,male,1,3,3,7
+argument,Brisbane,Healthcare,female,1,3,3,7
+dumb,Wellington,Advertising,female,1,2,4,7
+coming,Brisbane,Healthcare,female,1,3,3,7
+changed,Adelaide,Technology,male,1,3,3,7
+best substack,Manchester,Consulting,female,1,0,5,6
+like,Newcastle,Hospitality,female,1,3,2,6
+coming,Gold Coast,Technology,prefer_not_to_say,1,2,3,6
+smartest,Auckland,Government,female,1,5,0,6
+dumb,Manchester,Student,female,1,2,2,5
+episode,Bristol,Fashion,female,1,1,3,5
+actually,Wellington,Advertising,female,1,2,2,5
+coming,Canberra,Education,non_binary,1,3,1,5
+click,Gold Coast,Student,prefer_not_to_say,1,1,3,5
+circling,Auckland,Healthcare,non_binary,1,1,3,5
+argument,Wellington,Technology,non_binary,1,1,3,5
+argument,Brisbane,Technology,female,1,2,2,5
+smartest,London,Legal,male,1,2,2,5

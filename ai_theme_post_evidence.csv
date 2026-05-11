@@ -1,18 +1,11 @@
 post_id,post_username,post_created_at,heading,theme_label,post_like_count,comment_count
-a027f881-f689-425f-92b3-7229f78c04f7,lila,2026-01-28 20:00:00+00:00,Need the group's view on PR relationships.,PR relationships,1,1
-7246c0c9-fe80-47d5-aa99-0109012b7c88,fern,2026-01-31 13:51:00+00:00,Need the group's view on PR relationships.,PR relationships,3,3
-a0e77a2c-e26c-4eb6-b67f-140daec10f59,lila,2026-02-04 07:33:00+00:00,Need the group's view on PR relationships.,PR relationships,1,0
-57efd739-b593-4cff-8907-c57dcc1542c3,soph,2026-02-21 12:27:00+00:00,Need the group's view on PR relationships.,PR relationships,0,1
-3b4c3d7c-2f0a-425c-9781-42ab7e6a3416,willa55,2026-03-09 07:42:00+00:00,Who has the best take on PR relationships?,PR relationships,1,3
-e1edcf7b-0b8b-40b8-b643-d60f9af9051e,lila,2026-03-27 09:27:00+00:00,Open thread for PR relationships.,PR relationships,4,3
 a4d5d251-2936-4702-a4e3-071c93cee31d,billiexo,2026-01-25 07:51:00+00:00,Open thread for award season narratives.,award season,2,2
 a5805a92-36f4-4cc4-b616-30b62410a9f6,josie75,2026-03-05 10:55:00+00:00,Open thread for award season narratives.,award season,5,4
-0707d0e2-88b0-4ed4-aae2-7f0352dbc1c1,lila,2026-03-30 09:00:00+00:00,Best long-read on the celebrity memoir boom?,best long read on the celebrity memoir boom,0,2
-14b9b482-b778-4bf8-85d9-b5db7a2b1459,mads,2026-02-04 19:08:00+00:00,Can someone explain why book-to-screen adaptations keeps coming back?,book-to-screen adaptations,1,1
-c09b7467-d5f1-456c-8f6e-5d015f0248b7,poppy_club,2026-02-15 09:00:00+00:00,Need the group's view on book-to-screen adaptations.,book-to-screen adaptations,5,5
-304860d8-3207-4a61-be9c-371fa3086a31,beth,2026-03-18 12:39:00+00:00,What are we all thinking about book-to-screen adaptations right now?,book-to-screen adaptations,2,4
-e3bf71cc-483e-40f3-b68a-8f201affeeb0,nora24,2026-03-25 20:00:00+00:00,I keep circling back to book-to-screen adaptations.,book-to-screen adaptations,0,0
-8d87c598-47d2-4a52-aa92-a325b7f3eea7,cleo,2026-03-27 18:05:00+00:00,I keep circling back to book-to-screen adaptations.,book-to-screen adaptations,1,3
+14b9b482-b778-4bf8-85d9-b5db7a2b1459,mads,2026-02-04 19:08:00+00:00,Can someone explain why book-to-screen adaptations keeps coming back?,book to screen adaptations,1,1
+c09b7467-d5f1-456c-8f6e-5d015f0248b7,poppy_club,2026-02-15 09:00:00+00:00,Need the group's view on book-to-screen adaptations.,book to screen adaptations,5,5
+304860d8-3207-4a61-be9c-371fa3086a31,beth,2026-03-18 12:39:00+00:00,What are we all thinking about book-to-screen adaptations right now?,book to screen adaptations,2,4
+e3bf71cc-483e-40f3-b68a-8f201affeeb0,nora24,2026-03-25 20:00:00+00:00,I keep circling back to book-to-screen adaptations.,book to screen adaptations,0,0
+8d87c598-47d2-4a52-aa92-a325b7f3eea7,cleo,2026-03-27 18:05:00+00:00,I keep circling back to book-to-screen adaptations.,book to screen adaptations,1,3
 7e509fbc-9b1b-4e25-a0de-2eab1a6baca9,kate92,2026-02-17 21:27:00+00:00,What are we all thinking about brand founder scandals right now?,brand founder scandals,3,3
 fdbffb09-955d-4d67-b49a-371e0e0f5c74,soph,2026-01-31 09:08:00+00:00,What are we all thinking about cancelled tours right now?,cancelled tours,0,0
 35c86f01-08a4-4c94-828d-b3b0cc31b033,layla_x,2026-03-26 17:47:00+00:00,Need the group's view on cancelled tours.,cancelled tours,1,3
@@ -21,17 +14,24 @@ d1215e6b-445f-4dc5-8cf9-f99d67129010,paige69,2026-01-16 11:15:00+00:00,Can someo
 3c7eea98-5f6e-4207-8a66-0364d68f5248,mae,2026-02-28 08:08:00+00:00,Open thread for celebrity memoirs.,celebrity memoirs,1,2
 f5f35d98-c72f-43fe-aac3-c33bde9ce310,mads,2026-01-14 09:08:00+00:00,I keep circling back to celebrity side hustles.,celebrity side hustles,4,4
 3d05704a-6b84-4700-8ef9-47380917f6dc,mads,2026-01-26 09:47:00+00:00,Need the group's view on celebrity side hustles.,celebrity side hustles,4,2
-ebe938ce-8291-4fa2-869e-bd3acb6737fe,tara,2026-04-05 03:00:00+00:00,Community poll: do you like guest episodes more than host-only chats?,community poll do you like guest episodes more than host only chats,3,2
-a787633a-2847-46a6-8524-6f47033f0b07,nia,2026-04-03 05:00:00+00:00,Episode thread: the fame fatigue chat,episode thread the fame fatigue chat,1,3
+60165a64-6147-4751-a15a-89cc89847ccf,elsie,2026-02-03 07:08:00+00:00,Is anyone else fully locked into comfort rewatches discourse?,comfort rewatches,4,5
+04381e62-55ea-415f-bb7d-438aabb21a79,gemmanotes,2026-02-18 08:15:00+00:00,Who has the best take on comfort rewatches?,comfort rewatches,1,3
+77a132e2-57da-4dec-b02e-b237562be12d,lila,2026-03-09 09:55:00+00:00,Open thread for comfort rewatches.,comfort rewatches,1,2
+e1d99ba5-08bb-4cb6-86b0-9b5aaae3ee28,beth,2026-03-09 11:42:00+00:00,Need the group's view on comfort rewatches.,comfort rewatches,5,5
+e876c999-7fad-44a0-87c5-bfa3ac78ad4b,soph,2026-03-13 08:27:00+00:00,Open thread for comfort rewatches.,comfort rewatches,1,1
+d9e168ee-f673-40e0-b41a-e95af1bb1cd3,mads,2026-04-04 19:08:00+00:00,I keep circling back to comfort rewatches.,comfort rewatches,0,3
 46e7c05b-3c6f-4a02-88e5-c42e8431d29c,paige69,2026-01-17 08:47:00+00:00,Can someone explain why girlboss backlash keeps coming back?,girlboss backlash,3,3
 00cbe6bf-483d-4e0e-a1f5-25608d99613d,delia_daily,2026-02-10 13:08:00+00:00,Hot take request: girlboss backlash.,girlboss backlash,2,1
 362162d6-74bd-4995-9f26-3a63d04e2e9a,willa55,2026-03-05 18:12:00+00:00,Open thread for girlboss backlash.,girlboss backlash,1,2
 8b8edea4-d7a8-4d2b-b0db-ba207e05c3d1,alixclub,2026-04-04 09:15:00+00:00,Hot take request: girlboss backlash.,girlboss backlash,0,2
-6a7d33d9-89e4-4e49-918e-2a38a261753b,lila,2026-04-02 06:00:00+00:00,I have a hot take on redemption arcs,i have a hot take on redemption arcs,2,2
+a46e622f-d7c5-4beb-948f-bdc4813b1fca,brookea,2026-02-09 09:51:00+00:00,Can someone explain why podcast guest episodes keeps coming back?,guest,1,0
+033994b2-ad20-420d-9965-d280108ca03a,elsie_club,2026-02-18 18:15:00+00:00,Can someone explain why podcast guest episodes keeps coming back?,guest,3,1
+6a7d33d9-89e4-4e49-918e-2a38a261753b,lila,2026-04-02 06:00:00+00:00,I have a hot take on redemption arcs,have redemption arcs,2,2
 60403083-831d-4220-9e57-833119cdeaf9,mads,2026-01-27 18:05:00+00:00,Is anyone else fully locked into internet overexposure discourse?,internet overexposure,2,2
 52d9a4ff-e0e3-43bb-a7bb-940f06c81c4a,mads,2026-02-12 09:05:00+00:00,I keep circling back to internet overexposure.,internet overexposure,2,2
 9bc32dac-607a-40c6-aba4-29174c182da9,soph,2026-03-09 10:18:00+00:00,I keep circling back to internet overexposure.,internet overexposure,3,0
 b107e74e-9d68-42fc-9948-7e31dc7df346,rubyx,2026-03-31 09:42:00+00:00,Can someone explain why internet overexposure keeps coming back?,internet overexposure,5,0
+0707d0e2-88b0-4ed4-aae2-7f0352dbc1c1,lila,2026-03-30 09:00:00+00:00,Best long-read on the celebrity memoir boom?,long read the celebrity memoir boom,0,2
 ed7b8f54-d1a5-4f3a-941f-a7e75344195e,freya,2026-02-28 19:39:00+00:00,Hot take request: Messy celeb interviews.,messy celeb interviews,0,0
 dea130a3-c077-4e06-9ed9-928c02b1367d,freya,2026-03-03 20:51:00+00:00,What are we all thinking about Messy celeb interviews right now?,messy celeb interviews,2,2
 7ddce478-0c9e-4986-8b5c-746a2a9dc0e7,mads,2026-03-10 07:27:00+00:00,Open thread for Messy celeb interviews.,messy celeb interviews,1,2
@@ -48,38 +48,38 @@ ed0f7f58-1d69-4376-96c9-9e80d9f315b4,fern,2026-02-01 08:08:00+00:00,What are we 
 59a7b8cf-33d1-4d84-855f-e02b9045476f,mae,2026-03-25 10:51:00+00:00,Need the group's view on movie press tours.,movie press tours,4,4
 df44d941-4ec3-4b8a-9105-4128a81bcb90,josie75,2026-03-26 08:22:00+00:00,Open thread for movie press tours.,movie press tours,0,5
 5dc3030f-337e-45d1-886f-5ccb2a75d31b,nell35,2026-04-01 12:05:00+00:00,Can someone explain why movie press tours keeps coming back?,movie press tours,2,3
-e864e3dd-2399-43fa-8e5b-3c29ec61854a,brookea,2026-01-09 09:51:00+00:00,What are we all thinking about nepo-baby discourse right now?,nepo-baby discourse,2,1
-a8fc2636-6528-4601-a315-3c4b7b731c70,mads,2026-01-25 20:00:00+00:00,I keep circling back to nepo-baby discourse.,nepo-baby discourse,1,3
-fb7cb5bd-14fc-424c-8ada-76a7688727a6,josie75,2026-03-18 10:51:00+00:00,Need the group's view on nepo-baby discourse.,nepo-baby discourse,3,2
-3c4bab93-8dd7-4f9f-b155-2ac60d2ba966,alixclub,2026-03-24 18:12:00+00:00,Is anyone else fully locked into nepo-baby discourse discourse?,nepo-baby discourse,0,2
+e864e3dd-2399-43fa-8e5b-3c29ec61854a,brookea,2026-01-09 09:51:00+00:00,What are we all thinking about nepo-baby discourse right now?,nepo baby,2,1
+a8fc2636-6528-4601-a315-3c4b7b731c70,mads,2026-01-25 20:00:00+00:00,I keep circling back to nepo-baby discourse.,nepo baby,1,3
+fb7cb5bd-14fc-424c-8ada-76a7688727a6,josie75,2026-03-18 10:51:00+00:00,Need the group's view on nepo-baby discourse.,nepo baby,3,2
+3c4bab93-8dd7-4f9f-b155-2ac60d2ba966,alixclub,2026-03-24 18:12:00+00:00,Is anyone else fully locked into nepo-baby discourse discourse?,nepo baby,0,2
+d8f0e5bc-f4aa-4fc1-a233-1044c7ddbb91,mads,2026-03-29 10:00:00+00:00,Who is handling the latest nepo-baby discourse best?,nepo baby,2,3
 e9a44914-a3cb-4091-a52e-3bea608a35ae,sasha_notes,2026-03-12 13:00:00+00:00,Need the group's view on parasocial friendship.,parasocial friendship,0,1
 bea8475f-3c8f-4dc7-9b13-914f7a378d0c,cleo,2026-03-28 17:42:00+00:00,I keep circling back to parasocial friendship.,parasocial friendship,1,0
 dbeb47af-6152-4335-8710-86398ae0410f,bellaclub,2026-04-06 17:55:00+00:00,Who has the best take on parasocial friendship?,parasocial friendship,1,0
-a46e622f-d7c5-4beb-948f-bdc4813b1fca,brookea,2026-02-09 09:51:00+00:00,Can someone explain why podcast guest episodes keeps coming back?,podcast guest episodes,1,0
-033994b2-ad20-420d-9965-d280108ca03a,elsie_club,2026-02-18 18:15:00+00:00,Can someone explain why podcast guest episodes keeps coming back?,podcast guest episodes,3,1
-515f4aff-3724-410b-978d-f0ee289d452a,alixs,2026-01-31 07:47:00+00:00,Need the group's view on reality TV villains.,reality TV villains,3,0
-8ce90194-ff89-4ea0-b413-cd72390146e0,lila,2026-02-05 20:15:00+00:00,Who has the best take on reality TV villains?,reality TV villains,2,4
-96893c7b-7acc-4d2e-820f-a2977f4e8af8,nell35,2026-02-08 21:33:00+00:00,Can someone explain why reality TV villains keeps coming back?,reality TV villains,4,5
-c9f7127c-9264-451c-b158-7b0ccf7aff0b,mads,2026-02-15 18:51:00+00:00,I keep circling back to reality TV villains.,reality TV villains,3,4
-66f1bd4d-6441-4532-a12b-06949c949a7a,mads,2026-02-18 19:47:00+00:00,Is anyone else fully locked into reality TV villains discourse?,reality TV villains,3,3
-998d1e4d-1c33-4914-8e90-055bd3cd0d5c,isla_x,2026-03-14 21:15:00+00:00,I keep circling back to reality TV villains.,reality TV villains,2,2
-45917656-6d24-4051-b55f-c6590833f526,beth,2026-03-31 19:51:00+00:00,Can someone explain why reality TV villains keeps coming back?,reality TV villains,5,3
-d1370ea2-2343-49b0-8c42-9c628fb23ed5,cleo,2026-04-06 11:51:00+00:00,Need the group's view on reality TV villains.,reality TV villains,0,0
+ebe938ce-8291-4fa2-869e-bd3acb6737fe,tara,2026-04-05 03:00:00+00:00,Community poll: do you like guest episodes more than host-only chats?,poll you like guest more,3,2
+515f4aff-3724-410b-978d-f0ee289d452a,alixs,2026-01-31 07:47:00+00:00,Need the group's view on reality TV villains.,reality villains,3,0
+8ce90194-ff89-4ea0-b413-cd72390146e0,lila,2026-02-05 20:15:00+00:00,Who has the best take on reality TV villains?,reality villains,2,4
+96893c7b-7acc-4d2e-820f-a2977f4e8af8,nell35,2026-02-08 21:33:00+00:00,Can someone explain why reality TV villains keeps coming back?,reality villains,4,5
+c9f7127c-9264-451c-b158-7b0ccf7aff0b,mads,2026-02-15 18:51:00+00:00,I keep circling back to reality TV villains.,reality villains,3,4
+66f1bd4d-6441-4532-a12b-06949c949a7a,mads,2026-02-18 19:47:00+00:00,Is anyone else fully locked into reality TV villains discourse?,reality villains,3,3
+998d1e4d-1c33-4914-8e90-055bd3cd0d5c,isla_x,2026-03-14 21:15:00+00:00,I keep circling back to reality TV villains.,reality villains,2,2
+45917656-6d24-4051-b55f-c6590833f526,beth,2026-03-31 19:51:00+00:00,Can someone explain why reality TV villains keeps coming back?,reality villains,5,3
+d1370ea2-2343-49b0-8c42-9c628fb23ed5,cleo,2026-04-06 11:51:00+00:00,Need the group's view on reality TV villains.,reality villains,0,0
 12fd3bb1-5fe1-43de-9573-8e9ba31b4da9,cleo,2026-02-25 09:55:00+00:00,What are we all thinking about redemption arcs right now?,redemption arcs,2,2
+a027f881-f689-425f-92b3-7229f78c04f7,lila,2026-01-28 20:00:00+00:00,Need the group's view on PR relationships.,relationships,1,1
+7246c0c9-fe80-47d5-aa99-0109012b7c88,fern,2026-01-31 13:51:00+00:00,Need the group's view on PR relationships.,relationships,3,3
+a0e77a2c-e26c-4eb6-b67f-140daec10f59,lila,2026-02-04 07:33:00+00:00,Need the group's view on PR relationships.,relationships,1,0
+57efd739-b593-4cff-8907-c57dcc1542c3,soph,2026-02-21 12:27:00+00:00,Need the group's view on PR relationships.,relationships,0,1
+3b4c3d7c-2f0a-425c-9781-42ab7e6a3416,willa55,2026-03-09 07:42:00+00:00,Who has the best take on PR relationships?,relationships,1,3
+e1edcf7b-0b8b-40b8-b643-d60f9af9051e,lila,2026-03-27 09:27:00+00:00,Open thread for PR relationships.,relationships,4,3
 13cc3fe7-d385-499e-8c46-e80b373fd448,remis,2026-02-12 09:47:00+00:00,Can someone explain why sad girl pop keeps coming back?,sad girl pop,3,3
 e31312cc-d03c-4cf9-95c6-d70a2055871c,cleo,2026-03-03 13:51:00+00:00,Open thread for sad girl pop.,sad girl pop,3,0
 1b3e2721-f5d7-434b-a363-69c6a7f2a42c,isla_x,2026-03-18 08:12:00+00:00,I keep circling back to sad girl pop.,sad girl pop,1,6
 0aa50379-aa7c-4811-b0a1-db0c529a099f,nora24,2026-03-19 20:18:00+00:00,Open thread for sad girl pop.,sad girl pop,1,2
 e85aa71f-0e17-4881-9eaf-840b3432d863,heidi33,2026-04-01 07:47:00+00:00,I keep circling back to sad girl pop.,sad girl pop,1,1
+9c124498-340f-47a4-8771-8d0d3b8cf908,soph,2026-03-31 08:00:00+00:00,April recs: what's your smartest dumb watch?,smartest dumb watch,0,2
 0e3815a8-14f2-4da9-bac0-254a9b9149de,lila,2026-03-03 20:27:00+00:00,I keep circling back to tabloid ethics.,tabloid ethics,2,5
-60165a64-6147-4751-a15a-89cc89847ccf,elsie,2026-02-03 07:08:00+00:00,Is anyone else fully locked into comfort rewatches discourse?,watch recommendations,4,5
-04381e62-55ea-415f-bb7d-438aabb21a79,gemmanotes,2026-02-18 08:15:00+00:00,Who has the best take on comfort rewatches?,watch recommendations,1,3
-77a132e2-57da-4dec-b02e-b237562be12d,lila,2026-03-09 09:55:00+00:00,Open thread for comfort rewatches.,watch recommendations,1,2
-e1d99ba5-08bb-4cb6-86b0-9b5aaae3ee28,beth,2026-03-09 11:42:00+00:00,Need the group's view on comfort rewatches.,watch recommendations,5,5
-e876c999-7fad-44a0-87c5-bfa3ac78ad4b,soph,2026-03-13 08:27:00+00:00,Open thread for comfort rewatches.,watch recommendations,1,1
-9c124498-340f-47a4-8771-8d0d3b8cf908,soph,2026-03-31 08:00:00+00:00,April recs: what's your smartest dumb watch?,watch recommendations,0,2
-72698255-5753-4c5f-9a87-046f0b38893b,cleo,2026-04-04 04:00:00+00:00,What's your comfort rewatch right now?,watch recommendations,0,2
-d9e168ee-f673-40e0-b41a-e95af1bb1cd3,mads,2026-04-04 19:08:00+00:00,I keep circling back to comfort rewatches.,watch recommendations,0,3
+a787633a-2847-46a6-8524-6f47033f0b07,nia,2026-04-03 05:00:00+00:00,Episode thread: the fame fatigue chat,the fame fatigue chat,1,3
 7c559900-3e3b-473f-ac91-867324296eef,tess,2026-02-24 10:18:00+00:00,Is anyone else fully locked into wellness rebrands discourse?,wellness rebrands,2,3
-d8f0e5bc-f4aa-4fc1-a233-1044c7ddbb91,mads,2026-03-29 10:00:00+00:00,Who is handling the latest nepo-baby discourse best?,who is handling the latest nepo baby discourse best,2,3
-41fcff45-6368-499e-acd4-2bc044a3e18c,mads,2026-04-01 07:00:00+00:00,Would you go to a Shameless live-listen in Melbourne?,would you go to a shameless live listen in melbourne,0,3
+72698255-5753-4c5f-9a87-046f0b38893b,cleo,2026-04-04 04:00:00+00:00,What's your comfort rewatch right now?,what's your comfort rewatch,0,2
+41fcff45-6368-499e-acd4-2bc044a3e18c,mads,2026-04-01 07:00:00+00:00,Would you go to a Shameless live-listen in Melbourne?,would you shameless live listen melbourne,0,3
