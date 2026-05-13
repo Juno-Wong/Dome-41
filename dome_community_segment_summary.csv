@@ -1,0 +1,37 @@
+community_id,community_name,segment_type,segment_value,records,active_users,engagement_count
+demo_shameless_community,Demo Shameless Community,city,Adelaide,15,6,19
+demo_shameless_community,Demo Shameless Community,city,Auckland,26,4,49
+demo_shameless_community,Demo Shameless Community,city,Brisbane,19,6,33
+demo_shameless_community,Demo Shameless Community,city,Bristol,33,4,48
+demo_shameless_community,Demo Shameless Community,city,Canberra,4,3,10
+demo_shameless_community,Demo Shameless Community,city,Christchurch,13,5,37
+demo_shameless_community,Demo Shameless Community,city,Gold Coast,19,5,51
+demo_shameless_community,Demo Shameless Community,city,Hobart,2,2,2
+demo_shameless_community,Demo Shameless Community,city,London,40,6,97
+demo_shameless_community,Demo Shameless Community,city,Manchester,19,5,46
+demo_shameless_community,Demo Shameless Community,city,Melbourne,20,7,41
+demo_shameless_community,Demo Shameless Community,city,Newcastle,13,1,16
+demo_shameless_community,Demo Shameless Community,city,Perth,3,1,2
+demo_shameless_community,Demo Shameless Community,city,Singapore,6,3,8
+demo_shameless_community,Demo Shameless Community,city,Sydney,8,5,9
+demo_shameless_community,Demo Shameless Community,city,Wellington,35,5,70
+demo_shameless_community,Demo Shameless Community,industry,Advertising,23,3,50
+demo_shameless_community,Demo Shameless Community,industry,Consulting,12,2,27
+demo_shameless_community,Demo Shameless Community,industry,Education,12,6,17
+demo_shameless_community,Demo Shameless Community,industry,Fashion,8,2,14
+demo_shameless_community,Demo Shameless Community,industry,Finance,4,1,8
+demo_shameless_community,Demo Shameless Community,industry,Government,17,5,41
+demo_shameless_community,Demo Shameless Community,industry,Healthcare,66,15,111
+demo_shameless_community,Demo Shameless Community,industry,Hospitality,19,4,25
+demo_shameless_community,Demo Shameless Community,industry,Legal,20,1,62
+demo_shameless_community,Demo Shameless Community,industry,Marketing,24,7,34
+demo_shameless_community,Demo Shameless Community,industry,Media,8,4,11
+demo_shameless_community,Demo Shameless Community,industry,Nonprofit,13,2,14
+demo_shameless_community,Demo Shameless Community,industry,Publishing,6,3,4
+demo_shameless_community,Demo Shameless Community,industry,Retail,2,2,3
+demo_shameless_community,Demo Shameless Community,industry,Student,16,4,38
+demo_shameless_community,Demo Shameless Community,industry,Technology,25,7,79
+demo_shameless_community,Demo Shameless Community,gender,female,159,37,299
+demo_shameless_community,Demo Shameless Community,gender,male,58,13,120
+demo_shameless_community,Demo Shameless Community,gender,non_binary,41,11,82
+demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,17,7,37

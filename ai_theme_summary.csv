@@ -1,28 +1,29 @@
-theme_label,post_count,avg_post_likes,avg_comments,total_post_likes,total_comments,engagement_score
-reality TV villains,8,2.75,2.625,22,21,5.375
-watch recommendations,8,1.5,2.875,12,23,4.375
-microtrend fatigue,8,1.5,2.625,12,21,4.125
-PR relationships,6,1.6666666666666667,1.8333333333333333,10,11,3.5
-movie press tours,5,1.6,3.0,8,15,4.6
-book-to-screen adaptations,5,1.8,2.6,9,13,4.4
-sad girl pop,5,1.8,2.4,9,12,4.2
-internet overexposure,4,3.0,1.0,12,4,4.0
-girlboss backlash,4,1.5,2.0,6,8,3.5
-nepo-baby discourse,4,1.5,2.0,6,8,3.5
-messy celeb interviews,3,1.0,1.3333333333333333,3,4,2.333333333333333
-cancelled tours,3,0.6666666666666666,1.3333333333333333,2,4,2.0
-parasocial friendship,3,0.6666666666666666,0.3333333333333333,2,1,1.0
-celebrity side hustles,2,4.0,3.0,8,6,7.0
-award season,2,3.5,3.0,7,6,6.5
-celebrity memoirs,2,2.0,2.5,4,5,4.5
-podcast guest episodes,2,2.0,0.5,4,1,2.5
-tabloid ethics,1,2.0,5.0,2,5,7.0
-brand founder scandals,1,3.0,3.0,3,3,6.0
-community poll do you like guest episodes more than host only chats,1,3.0,2.0,3,2,5.0
-wellness rebrands,1,2.0,3.0,2,3,5.0
-who is handling the latest nepo baby discourse best,1,2.0,3.0,2,3,5.0
-episode thread the fame fatigue chat,1,1.0,3.0,1,3,4.0
-i have a hot take on redemption arcs,1,2.0,2.0,2,2,4.0
-redemption arcs,1,2.0,2.0,2,2,4.0
-would you go to a shameless live listen in melbourne,1,0.0,3.0,0,3,3.0
-best long read on the celebrity memoir boom,1,0.0,2.0,0,2,2.0
+community_id,community_name,theme_label,post_count,avg_post_likes,avg_comments,total_post_likes,total_comments,engagement_score
+demo_shameless_community,Demo Shameless Community,reality tv villains,8,2.75,2.625,22,21,5.375
+demo_shameless_community,Demo Shameless Community,microtrend fatigue,8,1.5,2.625,12,21,4.125
+demo_shameless_community,Demo Shameless Community,comfort rewatches,6,2.0,3.1666666666666665,12,19,5.166666666666666
+demo_shameless_community,Demo Shameless Community,pr relationships,6,1.6666666666666667,1.8333333333333333,10,11,3.5
+demo_shameless_community,Demo Shameless Community,movie press tours,5,1.6,3.0,8,15,4.6
+demo_shameless_community,Demo Shameless Community,book to screen adaptations,5,1.8,2.6,9,13,4.4
+demo_shameless_community,Demo Shameless Community,sad girl pop,5,1.8,2.4,9,12,4.2
+demo_shameless_community,Demo Shameless Community,nepo baby,5,1.6,2.2,8,11,3.8000000000000003
+demo_shameless_community,Demo Shameless Community,internet overexposure,4,3.0,1.0,12,4,4.0
+demo_shameless_community,Demo Shameless Community,girlboss backlash,4,1.5,2.0,6,8,3.5
+demo_shameless_community,Demo Shameless Community,messy celeb interviews,3,1.0,1.3333333333333333,3,4,2.333333333333333
+demo_shameless_community,Demo Shameless Community,cancelled tours,3,0.6666666666666666,1.3333333333333333,2,4,2.0
+demo_shameless_community,Demo Shameless Community,parasocial friendship,3,0.6666666666666666,0.3333333333333333,2,1,1.0
+demo_shameless_community,Demo Shameless Community,celebrity side hustles,2,4.0,3.0,8,6,7.0
+demo_shameless_community,Demo Shameless Community,award season,2,3.5,3.0,7,6,6.5
+demo_shameless_community,Demo Shameless Community,celebrity memoirs,2,2.0,2.5,4,5,4.5
+demo_shameless_community,Demo Shameless Community,guest,2,2.0,0.5,4,1,2.5
+demo_shameless_community,Demo Shameless Community,tabloid ethics,1,2.0,5.0,2,5,7.0
+demo_shameless_community,Demo Shameless Community,brand founder scandals,1,3.0,3.0,3,3,6.0
+demo_shameless_community,Demo Shameless Community,poll you like guest more,1,3.0,2.0,3,2,5.0
+demo_shameless_community,Demo Shameless Community,wellness rebrands,1,2.0,3.0,2,3,5.0
+demo_shameless_community,Demo Shameless Community,have redemption arcs,1,2.0,2.0,2,2,4.0
+demo_shameless_community,Demo Shameless Community,redemption arcs,1,2.0,2.0,2,2,4.0
+demo_shameless_community,Demo Shameless Community,the fame fatigue chat,1,1.0,3.0,1,3,4.0
+demo_shameless_community,Demo Shameless Community,would you shameless live listen melbourne,1,0.0,3.0,0,3,3.0
+demo_shameless_community,Demo Shameless Community,long read the celebrity memoir boom,1,0.0,2.0,0,2,2.0
+demo_shameless_community,Demo Shameless Community,smartest dumb watch,1,0.0,2.0,0,2,2.0
+demo_shameless_community,Demo Shameless Community,what's your comfort rewatch,1,0.0,2.0,0,2,2.0

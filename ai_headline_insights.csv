@@ -1,5 +1,5 @@
-insight_type,theme_label,insight_text
-Most Discussed Theme,reality TV villains,The most discussed theme is 'reality TV villains' with 8 posts.
-Highest Engagement Theme,celebrity side hustles,The highest-engagement theme is 'celebrity side hustles' with an engagement score of 7.0.
-Most Positive Theme,cancelled tours,"The most positively received theme is 'cancelled tours', with a positive rate of 100.0%."
-Most Critical Theme,watch recommendations,"The most critical or mixed-response theme is 'watch recommendations', with a negative rate of 12.5%."
+community_id,community_name,insight_type,theme_label,insight_text
+demo_shameless_community,Demo Shameless Community,Most Discussed Theme,reality tv villains,"For Demo Shameless Community, the most discussed theme is 'reality tv villains' with 8 posts."
+demo_shameless_community,Demo Shameless Community,Highest Engagement Theme,celebrity side hustles,"For Demo Shameless Community, the highest-engagement theme is 'celebrity side hustles' with an engagement score of 7.0."
+demo_shameless_community,Demo Shameless Community,Most Positive Theme,cancelled tours,"For Demo Shameless Community, the most positively received theme is 'cancelled tours', with a positive rate of 100.0%."
+demo_shameless_community,Demo Shameless Community,Most Critical Theme,No major critical theme,"For Demo Shameless Community, no recurring theme has enough negative response to be flagged as a major critical theme."

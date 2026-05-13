@@ -1,42 +1,42 @@
-theme_label,sentiment_label,post_count,avg_post_likes,avg_comments
-PR relationships,positive,5,1.2,1.6
-PR relationships,neutral,1,4.0,3.0
-award season,neutral,1,5.0,4.0
-award season,positive,1,2.0,2.0
-best long read on the celebrity memoir boom,positive,1,0.0,2.0
-book-to-screen adaptations,positive,4,2.25,3.25
-book-to-screen adaptations,neutral,1,0.0,0.0
-brand founder scandals,neutral,1,3.0,3.0
-cancelled tours,positive,3,0.6666666666666666,1.3333333333333333
-celebrity memoirs,neutral,2,2.0,2.5
-celebrity side hustles,neutral,1,4.0,2.0
-celebrity side hustles,positive,1,4.0,4.0
-community poll do you like guest episodes more than host only chats,neutral,1,3.0,2.0
-episode thread the fame fatigue chat,positive,1,1.0,3.0
-girlboss backlash,positive,3,1.0,1.6666666666666667
-girlboss backlash,neutral,1,3.0,3.0
-i have a hot take on redemption arcs,neutral,1,2.0,2.0
-internet overexposure,positive,3,3.3333333333333335,0.6666666666666666
-internet overexposure,neutral,1,2.0,2.0
-messy celeb interviews,neutral,2,1.5,2.0
-messy celeb interviews,positive,1,0.0,0.0
-microtrend fatigue,positive,6,0.8333333333333334,2.1666666666666665
-microtrend fatigue,neutral,2,3.5,4.0
-movie press tours,positive,4,2.0,2.5
-movie press tours,neutral,1,0.0,5.0
-nepo-baby discourse,positive,3,1.6666666666666667,1.6666666666666667
-nepo-baby discourse,neutral,1,1.0,3.0
-parasocial friendship,positive,2,1.0,0.0
-parasocial friendship,neutral,1,0.0,1.0
-podcast guest episodes,neutral,2,2.0,0.5
-reality TV villains,neutral,4,3.25,3.0
-reality TV villains,positive,4,2.25,2.25
-redemption arcs,positive,1,2.0,2.0
-sad girl pop,neutral,5,1.8,2.4
-tabloid ethics,positive,1,2.0,5.0
-watch recommendations,neutral,5,2.4,3.2
-watch recommendations,positive,2,0.0,2.5
-watch recommendations,negative,1,0.0,2.0
-wellness rebrands,neutral,1,2.0,3.0
-who is handling the latest nepo baby discourse best,positive,1,2.0,3.0
-would you go to a shameless live listen in melbourne,neutral,1,0.0,3.0
+community_id,community_name,theme_label,sentiment_label,post_count,avg_post_likes,avg_comments
+demo_shameless_community,Demo Shameless Community,award season,neutral,1,5.0,4.0
+demo_shameless_community,Demo Shameless Community,award season,positive,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,book to screen adaptations,positive,4,2.25,3.25
+demo_shameless_community,Demo Shameless Community,book to screen adaptations,neutral,1,0.0,0.0
+demo_shameless_community,Demo Shameless Community,brand founder scandals,neutral,1,3.0,3.0
+demo_shameless_community,Demo Shameless Community,cancelled tours,positive,3,0.6666666666666666,1.3333333333333333
+demo_shameless_community,Demo Shameless Community,celebrity memoirs,neutral,2,2.0,2.5
+demo_shameless_community,Demo Shameless Community,celebrity side hustles,neutral,1,4.0,2.0
+demo_shameless_community,Demo Shameless Community,celebrity side hustles,positive,1,4.0,4.0
+demo_shameless_community,Demo Shameless Community,comfort rewatches,neutral,5,2.4,3.2
+demo_shameless_community,Demo Shameless Community,comfort rewatches,positive,1,0.0,3.0
+demo_shameless_community,Demo Shameless Community,girlboss backlash,positive,3,1.0,1.6666666666666667
+demo_shameless_community,Demo Shameless Community,girlboss backlash,neutral,1,3.0,3.0
+demo_shameless_community,Demo Shameless Community,guest,neutral,2,2.0,0.5
+demo_shameless_community,Demo Shameless Community,have redemption arcs,neutral,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,internet overexposure,positive,3,3.3333333333333335,0.6666666666666666
+demo_shameless_community,Demo Shameless Community,internet overexposure,neutral,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,long read the celebrity memoir boom,positive,1,0.0,2.0
+demo_shameless_community,Demo Shameless Community,messy celeb interviews,neutral,2,1.5,2.0
+demo_shameless_community,Demo Shameless Community,messy celeb interviews,positive,1,0.0,0.0
+demo_shameless_community,Demo Shameless Community,microtrend fatigue,positive,6,0.8333333333333334,2.1666666666666665
+demo_shameless_community,Demo Shameless Community,microtrend fatigue,neutral,2,3.5,4.0
+demo_shameless_community,Demo Shameless Community,movie press tours,positive,4,2.0,2.5
+demo_shameless_community,Demo Shameless Community,movie press tours,neutral,1,0.0,5.0
+demo_shameless_community,Demo Shameless Community,nepo baby,positive,4,1.75,2.0
+demo_shameless_community,Demo Shameless Community,nepo baby,neutral,1,1.0,3.0
+demo_shameless_community,Demo Shameless Community,parasocial friendship,positive,2,1.0,0.0
+demo_shameless_community,Demo Shameless Community,parasocial friendship,neutral,1,0.0,1.0
+demo_shameless_community,Demo Shameless Community,poll you like guest more,neutral,1,3.0,2.0
+demo_shameless_community,Demo Shameless Community,pr relationships,positive,5,1.2,1.6
+demo_shameless_community,Demo Shameless Community,pr relationships,neutral,1,4.0,3.0
+demo_shameless_community,Demo Shameless Community,reality tv villains,neutral,4,3.25,3.0
+demo_shameless_community,Demo Shameless Community,reality tv villains,positive,4,2.25,2.25
+demo_shameless_community,Demo Shameless Community,redemption arcs,positive,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,sad girl pop,neutral,5,1.8,2.4
+demo_shameless_community,Demo Shameless Community,smartest dumb watch,negative,1,0.0,2.0
+demo_shameless_community,Demo Shameless Community,tabloid ethics,positive,1,2.0,5.0
+demo_shameless_community,Demo Shameless Community,the fame fatigue chat,positive,1,1.0,3.0
+demo_shameless_community,Demo Shameless Community,wellness rebrands,neutral,1,2.0,3.0
+demo_shameless_community,Demo Shameless Community,what's your comfort rewatch,positive,1,0.0,2.0
+demo_shameless_community,Demo Shameless Community,would you shameless live listen melbourne,neutral,1,0.0,3.0
