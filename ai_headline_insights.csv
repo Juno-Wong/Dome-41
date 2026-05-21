@@ -1,5 +1,5 @@
 community_id,community_name,insight_type,theme_label,insight_text
 demo_shameless_community,Demo Shameless Community,Most Discussed Theme,reality tv villains,"For Demo Shameless Community, the most discussed theme is 'reality tv villains' with 8 posts."
 demo_shameless_community,Demo Shameless Community,Highest Engagement Theme,celebrity side hustles,"For Demo Shameless Community, the highest-engagement theme is 'celebrity side hustles' with an engagement score of 7.0."
-demo_shameless_community,Demo Shameless Community,Most Positive Theme,cancelled tours,"For Demo Shameless Community, the most positively received theme is 'cancelled tours', with a positive rate of 100.0%."
-demo_shameless_community,Demo Shameless Community,Most Critical Theme,No major critical theme,"For Demo Shameless Community, no recurring theme has enough negative response to be flagged as a major critical theme."
+demo_shameless_community,Demo Shameless Community,Most Positive Theme,microtrend fatigue,"For Demo Shameless Community, the most positively received theme is 'microtrend fatigue', with a positive rate of 100.0%."
+demo_shameless_community,Demo Shameless Community,Most Critical Theme,sad girl pop,"For Demo Shameless Community, the most critical or mixed-response theme is 'sad girl pop', with a negative rate of 40.0%."

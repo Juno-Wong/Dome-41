@@ -1,12 +1,19 @@
 topic,suggested_sponsor_category,top_city_segment,top_industry_segment,top_gender_segment,segment_engagement_score,post_count,total_likes,total_comments
-dumb,General Lifestyle / Broad Brand Fit,London,Legal,male,15,2,6,7
-argument,General Lifestyle / Broad Brand Fit,London,Legal,male,9,1,4,4
-best substack,General Lifestyle / Broad Brand Fit,Bristol,Technology,male,9,1,3,5
-circling,General Lifestyle / Broad Brand Fit,Wellington,Advertising,female,8,1,2,5
-coming,General Lifestyle / Broad Brand Fit,Bristol,Nonprofit,male,7,1,3,3
-changed,General Lifestyle / Broad Brand Fit,Adelaide,Technology,male,7,1,3,3
-smartest,General Lifestyle / Broad Brand Fit,Auckland,Government,female,6,1,5,0
-like,General Lifestyle / Broad Brand Fit,Newcastle,Hospitality,female,6,1,3,2
-episode,General Lifestyle / Broad Brand Fit,Bristol,Fashion,female,5,1,1,3
-actually,General Lifestyle / Broad Brand Fit,Wellington,Advertising,female,5,1,2,2
-click,General Lifestyle / Broad Brand Fit,Gold Coast,Student,prefer_not_to_say,5,1,1,3
+discourse,Discourse Audience Fit,London,Legal,male,16,3,5,8
+open,Open Audience Fit,Gold Coast,Healthcare,female,16,2,5,9
+dumb,Dumb Audience Fit,London,Legal,male,15,2,6,7
+angle,Angle Audience Fit,Manchester,Consulting,female,12,2,5,5
+group,Group Audience Fit,Christchurch,Technology,female,11,1,5,5
+read,Read Audience Fit,London,Government,female,11,1,5,5
+best,Best Audience Fit,Melbourne,Government,non_binary,10,2,2,6
+argument,Argument Audience Fit,London,Legal,male,9,1,4,4
+best substack,Best Substack Audience Fit,Bristol,Technology,male,9,1,3,5
+circling,Circling Audience Fit,Wellington,Advertising,female,8,1,2,5
+coming,Coming Audience Fit,Bristol,Nonprofit,male,7,1,3,3
+changed,Changed Audience Fit,Adelaide,Technology,male,7,1,3,3
+actually interesting,Actually Interesting Audience Fit,Christchurch,Technology,female,7,1,2,4
+like,Like Audience Fit,Newcastle,Hospitality,female,6,1,3,2
+smartest,Smartest Audience Fit,Auckland,Government,female,6,1,5,0
+click,Click Audience Fit,Gold Coast,Student,prefer_not_to_say,5,1,1,3
+episode,Episode Audience Fit,Bristol,Fashion,female,5,1,1,3
+actually,Actually Audience Fit,Wellington,Advertising,female,5,1,2,2

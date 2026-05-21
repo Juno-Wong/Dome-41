@@ -1,0 +1,14 @@
+﻿pandas
+numpy
+scikit-learn
+openpyxl
+textblob
+nltk
+vaderSentiment
+keybert
+sentence-transformers
+yake
+rapidfuzz
+bertopic
+umap-learn
+hdbscan

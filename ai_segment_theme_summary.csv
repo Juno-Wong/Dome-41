@@ -1,111 +1,111 @@
 community_id,community_name,segment_type,segment_value,theme_label,record_count,total_engagement,avg_engagement,positive_count,neutral_count,negative_count,positive_rate
-demo_shameless_community,Demo Shameless Community,gender,female,pr relationships,5,17,3.4,4,1,0,0.8
-demo_shameless_community,Demo Shameless Community,gender,female,reality tv villains,4,21,5.25,3,1,0,0.75
+demo_shameless_community,Demo Shameless Community,gender,female,pr relationships,5,17,3.4,5,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,reality tv villains,4,21,5.25,3,0,1,0.75
 demo_shameless_community,Demo Shameless Community,gender,non_binary,microtrend fatigue,4,13,3.25,4,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Government,microtrend fatigue,3,15,5.0,2,1,0,0.667
-demo_shameless_community,Demo Shameless Community,gender,female,comfort rewatches,3,15,5.0,0,3,0,0.0
-demo_shameless_community,Demo Shameless Community,city,London,nepo baby,3,12,4.0,2,1,0,0.667
+demo_shameless_community,Demo Shameless Community,industry,Government,microtrend fatigue,3,15,5.0,3,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,comfort rewatches,3,15,5.0,3,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,London,nepo baby,3,12,4.0,3,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Melbourne,microtrend fatigue,3,10,3.3333333333333335,3,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Wellington,pr relationships,3,10,3.3333333333333335,2,1,0,0.667
-demo_shameless_community,Demo Shameless Community,industry,Advertising,pr relationships,3,10,3.3333333333333335,2,1,0,0.667
+demo_shameless_community,Demo Shameless Community,city,Wellington,pr relationships,3,10,3.3333333333333335,3,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Advertising,pr relationships,3,10,3.3333333333333335,3,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,nepo baby,3,10,3.3333333333333335,3,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,non_binary,sad girl pop,3,8,2.6666666666666665,0,3,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Technology,reality tv villains,2,17,8.5,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,gender,non_binary,sad girl pop,3,8,2.6666666666666665,0,1,2,0.0
+demo_shameless_community,Demo Shameless Community,industry,Technology,reality tv villains,2,17,8.5,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,book to screen adaptations,2,16,8.0,2,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,London,celebrity side hustles,2,14,7.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,industry,Legal,celebrity side hustles,2,14,7.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,industry,Technology,comfort rewatches,2,14,7.0,0,2,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,male,celebrity side hustles,2,14,7.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,city,London,reality tv villains,2,13,6.5,0,2,0,0.0
+demo_shameless_community,Demo Shameless Community,city,London,celebrity side hustles,2,14,7.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Legal,celebrity side hustles,2,14,7.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Technology,comfort rewatches,2,14,7.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,celebrity side hustles,2,14,7.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,London,reality tv villains,2,13,6.5,1,1,0,0.5
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,movie press tours,2,13,6.5,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,industry,Legal,reality tv villains,2,13,6.5,0,2,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,female,award season,2,13,6.5,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,gender,male,reality tv villains,2,13,6.5,0,2,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Legal,reality tv villains,2,13,6.5,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,gender,female,award season,2,13,6.5,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,reality tv villains,2,13,6.5,1,1,0,0.5
 demo_shameless_community,Demo Shameless Community,city,London,book to screen adaptations,2,12,6.0,2,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,female,microtrend fatigue,2,12,6.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,gender,male,comfort rewatches,2,12,6.0,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,gender,female,microtrend fatigue,2,12,6.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,comfort rewatches,2,12,6.0,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Gold Coast,movie press tours,2,10,5.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,city,Manchester,sad girl pop,2,9,4.5,0,2,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Healthcare,celebrity memoirs,2,9,4.5,0,2,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Legal,nepo baby,2,9,4.5,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,city,Manchester,sad girl pop,2,9,4.5,1,0,1,0.5
+demo_shameless_community,Demo Shameless Community,industry,Healthcare,celebrity memoirs,2,9,4.5,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Legal,nepo baby,2,9,4.5,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,movie press tours,2,9,4.5,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,gender,male,nepo baby,2,9,4.5,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,city,Bristol,microtrend fatigue,2,8,4.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,city,London,internet overexposure,2,8,4.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,industry,Legal,internet overexposure,2,8,4.0,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,gender,male,nepo baby,2,9,4.5,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Bristol,microtrend fatigue,2,8,4.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,London,internet overexposure,2,8,4.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Legal,internet overexposure,2,8,4.0,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,girlboss backlash,2,8,4.0,1,1,0,0.5
 demo_shameless_community,Demo Shameless Community,gender,female,internet overexposure,2,8,4.0,2,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,male,internet overexposure,2,8,4.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,gender,male,microtrend fatigue,2,8,4.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,city,Wellington,comfort rewatches,2,7,3.5,0,2,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Christchurch,book to screen adaptations,2,6,3.0,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,gender,male,internet overexposure,2,8,4.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,microtrend fatigue,2,8,4.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Wellington,comfort rewatches,2,7,3.5,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Christchurch,book to screen adaptations,2,6,3.0,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Technology,movie press tours,2,6,3.0,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Melbourne,girlboss backlash,2,5,2.5,2,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Brisbane,messy celeb interviews,2,4,2.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,industry,Technology,messy celeb interviews,2,4,2.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,gender,female,messy celeb interviews,2,4,2.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,gender,non_binary,book to screen adaptations,2,4,2.0,1,1,0,0.5
-demo_shameless_community,Demo Shameless Community,city,Adelaide,parasocial friendship,2,2,1.0,1,1,0,0.5
+demo_shameless_community,Demo Shameless Community,city,Brisbane,messy celeb interviews,2,4,2.0,1,0,1,0.5
+demo_shameless_community,Demo Shameless Community,industry,Technology,messy celeb interviews,2,4,2.0,1,0,1,0.5
+demo_shameless_community,Demo Shameless Community,gender,female,messy celeb interviews,2,4,2.0,1,0,1,0.5
+demo_shameless_community,Demo Shameless Community,gender,non_binary,book to screen adaptations,2,4,2.0,2,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Adelaide,parasocial friendship,2,2,1.0,2,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,parasocial friendship,2,2,1.0,2,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Christchurch,comfort rewatches,1,10,10.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Christchurch,comfort rewatches,1,10,10.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Government,book to screen adaptations,1,10,10.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Gold Coast,award season,1,9,9.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Gold Coast,reality tv villains,1,9,9.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Melbourne,comfort rewatches,1,9,9.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Healthcare,award season,1,9,9.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Marketing,comfort rewatches,1,9,9.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,reality tv villains,1,9,9.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Gold Coast,award season,1,9,9.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Gold Coast,reality tv villains,1,9,9.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Melbourne,comfort rewatches,1,9,9.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Healthcare,award season,1,9,9.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Marketing,comfort rewatches,1,9,9.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,reality tv villains,1,9,9.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,movie press tours,1,8,8.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Christchurch,reality tv villains,1,8,8.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Technology,microtrend fatigue,1,8,8.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Technology,microtrend fatigue,1,8,8.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,movie press tours,1,8,8.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,London,microtrend fatigue,1,7,7.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,London,microtrend fatigue,1,7,7.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Wellington,tabloid ethics,1,7,7.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Advertising,tabloid ethics,1,7,7.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Student,sad girl pop,1,7,7.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,female,sad girl pop,1,7,7.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Student,sad girl pop,1,7,7.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,sad girl pop,1,7,7.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,tabloid ethics,1,7,7.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Adelaide,brand founder scandals,1,6,6.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Brisbane,celebrity memoirs,1,6,6.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Adelaide,brand founder scandals,1,6,6.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Brisbane,celebrity memoirs,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Brisbane,girlboss backlash,1,6,6.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Bristol,sad girl pop,1,6,6.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Bristol,sad girl pop,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Manchester,pr relationships,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Wellington,reality tv villains,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Advertising,reality tv villains,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Consulting,pr relationships,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,girlboss backlash,1,6,6.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Nonprofit,sad girl pop,1,6,6.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Nonprofit,sad girl pop,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Technology,book to screen adaptations,1,6,6.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Technology,brand founder scandals,1,6,6.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,female,celebrity memoirs,1,6,6.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,male,brand founder scandals,1,6,6.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,male,sad girl pop,1,6,6.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Technology,brand founder scandals,1,6,6.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,celebrity memoirs,1,6,6.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,brand founder scandals,1,6,6.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,sad girl pop,1,6,6.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,internet overexposure,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Gold Coast,nepo baby,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Manchester,microtrend fatigue,1,5,5.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Newcastle,poll you like guest more,1,5,5.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Sydney,wellness rebrands,1,5,5.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Newcastle,poll you like guest more,1,5,5.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Sydney,wellness rebrands,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Consulting,microtrend fatigue,1,5,5.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Education,wellness rebrands,1,5,5.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Education,wellness rebrands,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Government,internet overexposure,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,nepo baby,1,5,5.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Hospitality,poll you like guest more,1,5,5.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,female,poll you like guest more,1,5,5.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,female,wellness rebrands,1,5,5.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Hospitality,poll you like guest more,1,5,5.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,poll you like guest more,1,5,5.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,wellness rebrands,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,movie press tours,1,5,5.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,book to screen adaptations,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,redemption arcs,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Brisbane,award season,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Bristol,the fame fatigue chat,1,4,4.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Canberra,guest,1,4,4.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Canberra,guest,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Gold Coast,pr relationships,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Manchester,movie press tours,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Manchester,reality tv villains,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Melbourne,cancelled tours,1,4,4.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Wellington,have redemption arcs,1,4,4.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Advertising,have redemption arcs,1,4,4.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Wellington,have redemption arcs,1,4,4.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Advertising,have redemption arcs,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Consulting,movie press tours,1,4,4.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Education,guest,1,4,4.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Education,guest,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Fashion,award season,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Fashion,the fame fatigue chat,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Government,cancelled tours,1,4,4.0,1,0,0,1.0
@@ -113,43 +113,43 @@ demo_shameless_community,Demo Shameless Community,industry,Healthcare,book to sc
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,redemption arcs,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Student,pr relationships,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Student,reality tv villains,1,4,4.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,female,have redemption arcs,1,4,4.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,gender,female,have redemption arcs,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,the fame fatigue chat,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,cancelled tours,1,4,4.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,non_binary,comfort rewatches,1,4,4.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,non_binary,guest,1,4,4.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,gender,non_binary,comfort rewatches,1,4,4.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,non_binary,guest,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,redemption arcs,1,4,4.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,pr relationships,1,4,4.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Auckland,celebrity memoirs,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Auckland,celebrity memoirs,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,microtrend fatigue,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,sad girl pop,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Brisbane,reality tv villains,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Brisbane,reality tv villains,1,3,3.0,0,0,1,0.0
 demo_shameless_community,Demo Shameless Community,city,Bristol,internet overexposure,1,3,3.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Christchurch,sad girl pop,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,Christchurch,sad girl pop,1,3,3.0,0,0,1,0.0
 demo_shameless_community,Demo Shameless Community,city,Gold Coast,girlboss backlash,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,London,comfort rewatches,1,3,3.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,London,messy celeb interviews,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,London,would you shameless live listen melbourne,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Advertising,comfort rewatches,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,London,messy celeb interviews,1,3,3.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,London,would you shameless live listen melbourne,1,3,3.0,0,0,1,0.0
+demo_shameless_community,Demo Shameless Community,industry,Advertising,comfort rewatches,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Finance,girlboss backlash,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,internet overexposure,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,microtrend fatigue,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,sad girl pop,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Hospitality,reality tv villains,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Hospitality,reality tv villains,1,3,3.0,0,0,1,0.0
 demo_shameless_community,Demo Shameless Community,industry,Legal,comfort rewatches,1,3,3.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Legal,messy celeb interviews,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Legal,would you shameless live listen melbourne,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Media,sad girl pop,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Legal,messy celeb interviews,1,3,3.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Legal,would you shameless live listen melbourne,1,3,3.0,0,0,1,0.0
+demo_shameless_community,Demo Shameless Community,industry,Media,sad girl pop,1,3,3.0,0,0,1,0.0
 demo_shameless_community,Demo Shameless Community,industry,Student,girlboss backlash,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Student,nepo baby,1,3,3.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,male,messy celeb interviews,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,male,would you shameless live listen melbourne,1,3,3.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,non_binary,celebrity memoirs,1,3,3.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,gender,male,messy celeb interviews,1,3,3.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,male,would you shameless live listen melbourne,1,3,3.0,0,0,1,0.0
+demo_shameless_community,Demo Shameless Community,gender,non_binary,celebrity memoirs,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,girlboss backlash,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,girlboss backlash,1,3,3.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,what's your comfort rewatch,1,2,2.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,Bristol,comfort rewatches,1,2,2.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,city,Bristol,smartest dumb watch,1,2,2.0,0,0,1,0.0
+demo_shameless_community,Demo Shameless Community,city,Bristol,comfort rewatches,1,2,2.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,city,Bristol,smartest dumb watch,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Gold Coast,cancelled tours,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Melbourne,nepo baby,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Wellington,long read the celebrity memoir boom,1,2,2.0,1,0,0,1.0
@@ -157,34 +157,34 @@ demo_shameless_community,Demo Shameless Community,industry,Advertising,long read
 demo_shameless_community,Demo Shameless Community,industry,Education,girlboss backlash,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Education,nepo baby,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Finance,microtrend fatigue,1,2,2.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Healthcare,comfort rewatches,1,2,2.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Healthcare,smartest dumb watch,1,2,2.0,0,0,1,0.0
+demo_shameless_community,Demo Shameless Community,industry,Healthcare,comfort rewatches,1,2,2.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Healthcare,smartest dumb watch,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,what's your comfort rewatch,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Legal,book to screen adaptations,1,2,2.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Marketing,sad girl pop,1,2,2.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Marketing,sad girl pop,1,2,2.0,0,0,1,0.0
 demo_shameless_community,Demo Shameless Community,industry,Student,cancelled tours,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,long read the celebrity memoir boom,1,2,2.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,female,smartest dumb watch,1,2,2.0,0,0,1,0.0
+demo_shameless_community,Demo Shameless Community,gender,female,smartest dumb watch,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,male,book to screen adaptations,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,what's your comfort rewatch,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,prefer_not_to_say,cancelled tours,1,2,2.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Adelaide,movie press tours,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,parasocial friendship,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Bristol,pr relationships,1,1,1.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,city,London,guest,1,1,1.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,city,London,guest,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,pr relationships,1,1,1.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Media,parasocial friendship,1,1,1.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,industry,Student,guest,1,1,1.0,0,1,0,0.0
-demo_shameless_community,Demo Shameless Community,gender,female,guest,1,1,1.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Media,parasocial friendship,1,1,1.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,industry,Student,guest,1,1,1.0,1,0,0,1.0
+demo_shameless_community,Demo Shameless Community,gender,female,guest,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,parasocial friendship,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,male,movie press tours,1,1,1.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,gender,male,parasocial friendship,1,1,1.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,gender,male,parasocial friendship,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,parasocial friendship,1,1,1.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Auckland,reality tv villains,1,0,0.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,city,Bristol,cancelled tours,1,0,0.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,cancelled tours,1,0,0.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Healthcare,reality tv villains,1,0,0.0,1,0,0,1.0
-demo_shameless_community,Demo Shameless Community,industry,Media,book to screen adaptations,1,0,0.0,0,1,0,0.0
+demo_shameless_community,Demo Shameless Community,industry,Media,book to screen adaptations,1,0,0.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,industry,Nonprofit,microtrend fatigue,1,0,0.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,female,cancelled tours,1,0,0.0,1,0,0,1.0
 demo_shameless_community,Demo Shameless Community,gender,non_binary,reality tv villains,1,0,0.0,1,0,0,1.0

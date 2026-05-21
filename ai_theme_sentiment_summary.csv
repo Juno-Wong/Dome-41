@@ -1,42 +1,36 @@
 community_id,community_name,theme_label,sentiment_label,post_count,avg_post_likes,avg_comments
-demo_shameless_community,Demo Shameless Community,award season,neutral,1,5.0,4.0
-demo_shameless_community,Demo Shameless Community,award season,positive,1,2.0,2.0
-demo_shameless_community,Demo Shameless Community,book to screen adaptations,positive,4,2.25,3.25
-demo_shameless_community,Demo Shameless Community,book to screen adaptations,neutral,1,0.0,0.0
-demo_shameless_community,Demo Shameless Community,brand founder scandals,neutral,1,3.0,3.0
+demo_shameless_community,Demo Shameless Community,award season,positive,2,3.5,3.0
+demo_shameless_community,Demo Shameless Community,book to screen adaptations,positive,5,1.8,2.6
+demo_shameless_community,Demo Shameless Community,brand founder scandals,positive,1,3.0,3.0
 demo_shameless_community,Demo Shameless Community,cancelled tours,positive,3,0.6666666666666666,1.3333333333333333
-demo_shameless_community,Demo Shameless Community,celebrity memoirs,neutral,2,2.0,2.5
-demo_shameless_community,Demo Shameless Community,celebrity side hustles,neutral,1,4.0,2.0
-demo_shameless_community,Demo Shameless Community,celebrity side hustles,positive,1,4.0,4.0
-demo_shameless_community,Demo Shameless Community,comfort rewatches,neutral,5,2.4,3.2
-demo_shameless_community,Demo Shameless Community,comfort rewatches,positive,1,0.0,3.0
+demo_shameless_community,Demo Shameless Community,celebrity memoirs,positive,2,2.0,2.5
+demo_shameless_community,Demo Shameless Community,celebrity side hustles,positive,2,4.0,3.0
+demo_shameless_community,Demo Shameless Community,comfort rewatches,positive,6,2.0,3.1666666666666665
 demo_shameless_community,Demo Shameless Community,girlboss backlash,positive,3,1.0,1.6666666666666667
 demo_shameless_community,Demo Shameless Community,girlboss backlash,neutral,1,3.0,3.0
-demo_shameless_community,Demo Shameless Community,guest,neutral,2,2.0,0.5
-demo_shameless_community,Demo Shameless Community,have redemption arcs,neutral,1,2.0,2.0
-demo_shameless_community,Demo Shameless Community,internet overexposure,positive,3,3.3333333333333335,0.6666666666666666
-demo_shameless_community,Demo Shameless Community,internet overexposure,neutral,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,guest,positive,2,2.0,0.5
+demo_shameless_community,Demo Shameless Community,have redemption arcs,positive,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,internet overexposure,positive,4,3.0,1.0
 demo_shameless_community,Demo Shameless Community,long read the celebrity memoir boom,positive,1,0.0,2.0
-demo_shameless_community,Demo Shameless Community,messy celeb interviews,neutral,2,1.5,2.0
-demo_shameless_community,Demo Shameless Community,messy celeb interviews,positive,1,0.0,0.0
-demo_shameless_community,Demo Shameless Community,microtrend fatigue,positive,6,0.8333333333333334,2.1666666666666665
-demo_shameless_community,Demo Shameless Community,microtrend fatigue,neutral,2,3.5,4.0
+demo_shameless_community,Demo Shameless Community,messy celeb interviews,positive,2,0.5,1.0
+demo_shameless_community,Demo Shameless Community,messy celeb interviews,negative,1,2.0,2.0
+demo_shameless_community,Demo Shameless Community,microtrend fatigue,positive,8,1.5,2.625
 demo_shameless_community,Demo Shameless Community,movie press tours,positive,4,2.0,2.5
 demo_shameless_community,Demo Shameless Community,movie press tours,neutral,1,0.0,5.0
-demo_shameless_community,Demo Shameless Community,nepo baby,positive,4,1.75,2.0
-demo_shameless_community,Demo Shameless Community,nepo baby,neutral,1,1.0,3.0
-demo_shameless_community,Demo Shameless Community,parasocial friendship,positive,2,1.0,0.0
-demo_shameless_community,Demo Shameless Community,parasocial friendship,neutral,1,0.0,1.0
-demo_shameless_community,Demo Shameless Community,poll you like guest more,neutral,1,3.0,2.0
-demo_shameless_community,Demo Shameless Community,pr relationships,positive,5,1.2,1.6
-demo_shameless_community,Demo Shameless Community,pr relationships,neutral,1,4.0,3.0
-demo_shameless_community,Demo Shameless Community,reality tv villains,neutral,4,3.25,3.0
-demo_shameless_community,Demo Shameless Community,reality tv villains,positive,4,2.25,2.25
+demo_shameless_community,Demo Shameless Community,nepo baby,positive,5,1.6,2.2
+demo_shameless_community,Demo Shameless Community,parasocial friendship,positive,3,0.6666666666666666,0.3333333333333333
+demo_shameless_community,Demo Shameless Community,poll you like guest more,positive,1,3.0,2.0
+demo_shameless_community,Demo Shameless Community,pr relationships,positive,6,1.6666666666666667,1.8333333333333333
+demo_shameless_community,Demo Shameless Community,reality tv villains,positive,6,2.6666666666666665,2.8333333333333335
+demo_shameless_community,Demo Shameless Community,reality tv villains,negative,1,3.0,0.0
+demo_shameless_community,Demo Shameless Community,reality tv villains,neutral,1,3.0,4.0
 demo_shameless_community,Demo Shameless Community,redemption arcs,positive,1,2.0,2.0
-demo_shameless_community,Demo Shameless Community,sad girl pop,neutral,5,1.8,2.4
-demo_shameless_community,Demo Shameless Community,smartest dumb watch,negative,1,0.0,2.0
+demo_shameless_community,Demo Shameless Community,sad girl pop,negative,2,1.0,1.5
+demo_shameless_community,Demo Shameless Community,sad girl pop,positive,2,2.0,4.5
+demo_shameless_community,Demo Shameless Community,sad girl pop,neutral,1,3.0,0.0
+demo_shameless_community,Demo Shameless Community,smartest dumb watch,positive,1,0.0,2.0
 demo_shameless_community,Demo Shameless Community,tabloid ethics,positive,1,2.0,5.0
 demo_shameless_community,Demo Shameless Community,the fame fatigue chat,positive,1,1.0,3.0
-demo_shameless_community,Demo Shameless Community,wellness rebrands,neutral,1,2.0,3.0
+demo_shameless_community,Demo Shameless Community,wellness rebrands,positive,1,2.0,3.0
 demo_shameless_community,Demo Shameless Community,what's your comfort rewatch,positive,1,0.0,2.0
-demo_shameless_community,Demo Shameless Community,would you shameless live listen melbourne,neutral,1,0.0,3.0
+demo_shameless_community,Demo Shameless Community,would you shameless live listen melbourne,negative,1,0.0,3.0
